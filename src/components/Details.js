@@ -27,6 +27,7 @@ export default class Details extends Component {
                 </div>
                     {/* end title */}
                     {/* product info */} 
+                         
                             <div className="row">
                                 <div className="col-10 mx-auto col-md-6 my-3">                                                              
                                 <img src={img} className="img-fluid"  alt="product"/>
@@ -58,6 +59,7 @@ export default class Details extends Component {
                                         cart>
                                             back to products
                                         </ButtonContainer>
+                                        
                                         </Link>
 
                                         <ButtonContainer 
