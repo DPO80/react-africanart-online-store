@@ -2,7 +2,7 @@ export const storeProducts = [
 {	
     id: 1,
     title: "African savanna",
-    img: "img/product-1.png",
+    img: "img/product-1.jpg",
     price: 25,
     company: "African Art Gallary B.V.",
     info:
@@ -14,7 +14,7 @@ export const storeProducts = [
 {	
     id: 2,
     title: "Classical African Art",
-    img: "img/product-2.png",
+    img: "img/product-2.jpg",
     price: 20,
     company: "African Art Gallary B.V.",
     info:
@@ -28,7 +28,7 @@ export const storeProducts = [
 {	
     id: 3,
     title: "Sunset African Village Scene",
-    img: "img/product-3.png",
+    img: "img/product-3.jpg",
     price: 20,
     company: "African Art Gallary B.V.",
     info:
@@ -42,7 +42,7 @@ export const storeProducts = [
 {	
     id: 4,
     title: "Sunset Painting",
-    img: "img/product-4.png",
+    img: "img/product-4.jpg",
     price: 17,
     company: "African Art Gallary B.V.",
     info:
@@ -56,7 +56,7 @@ export const storeProducts = [
 {	
     id: 5,
     title: "Nomadic Art Scene",
-    img: "img/product-5.png",
+    img: "img/product-5.jpg",
     price: 15,
     company: "African Art Gallary B.V.",
     info:
@@ -70,7 +70,7 @@ export const storeProducts = [
 {	
     id: 6,
     title: "Nomadic Art Scene",
-    img: "img/product-6.png",
+    img: "img/product-6.jpg",
     price: 15,
     company: "African Art Gallary B.V.",
     info:
@@ -84,7 +84,7 @@ export const storeProducts = [
 {	
     id: 7,
     title: "African Theme Village Setting",
-    img: "img/product-7.png",
+    img: "img/product-7.jpg",
     price: 20,
     company: "African Art Gallary B.V.",
     info:
@@ -98,7 +98,7 @@ export const storeProducts = [
 {	
     id: 8,
     title: "Decor Abstract Painting",
-    img: "img/product-8.png",
+    img: "img/product-8.jpg",
     price: 20,
     company: "African Art Gallary B.V.",
     info:
@@ -112,7 +112,7 @@ export const storeProducts = [
 {	
     id: 9,
     title: "Food Prep-Painting",
-    img: "img/product-9.png",
+    img: "img/product-9.jpg",
     price: 12.50,
     company: "African Art Gallary B.V.",
     info:
@@ -126,7 +126,7 @@ export const storeProducts = [
 {	
     id: 10,
     title: "Map of African",
-    img: "img/product-10.png",
+    img: "img/product-10.jpg",
     price: 10,
     company: "African Art Gallary B.V.",
     info:
@@ -138,8 +138,8 @@ export const storeProducts = [
 
 {	
     id: 11,
-    title: "Traditional African Women Canvas",
-    img: "img/product-11.png",
+    title: "African Women Canvas",
+    img: "img/product-11.jpg",
     price: 40,
     company: "African Art Gallary B.V.",
     info:
@@ -153,7 +153,7 @@ export const storeProducts = [
 {	
     id: 12,
     title: "Banana Leaf Art work",
-    img: "img/product-12.png",
+    img: "img/product-12.jpg",
     price: 50,
     company: "African Art Gallary B.V.",
     info:
